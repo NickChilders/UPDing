@@ -1,2 +1,2 @@
-# UPDing
+# UDPing
 UDP Ping Server 
